@@ -1,4 +1,4 @@
-
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 # ETL — Pipeline de ingestión y RAG UI
 
 Resumen
@@ -146,7 +146,6 @@ tail -f logs/rag_uvicorn.log
 	- que el id exista en la colección (`qdrant_client.get_point`)
 	- que `payload.text` se haya guardado en la ingest (ingest_books.py guarda `payload.text`)
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
