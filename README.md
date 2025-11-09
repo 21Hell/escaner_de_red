@@ -6,3 +6,6 @@ Usando Python obtenemos las ips de los hosts de una red, conseguimos su mac e id
 * Python 3
 * arp 
 * nmap
+
+# Licencia
+Este proyecto está licenciado bajo los términos de la [GNU General Public License v2.0](LICENSE).
